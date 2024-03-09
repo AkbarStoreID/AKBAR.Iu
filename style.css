@@ -78,5 +78,7 @@ padding: 0;
 .about-test {
     background-color: rgb(56, 68, 68);
     color: azure;
-
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
 }
